@@ -1,6 +1,7 @@
 {
-  "name": "@diallo/dxc-components",
+  "name": "@kollet/dxc-components",
   "version": "1.0.0",
+  "repository": "github.com/yd1265/npmpublishlib",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
